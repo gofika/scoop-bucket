@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gofika/polyctl/releases/download/v0.1.0/polyctl_0.1.0_windows_amd64.zip",
+            "bin": [
+                "polyctl.exe"
+            ],
+            "hash": "f51379e10549a906221e8f49a2b8b72a5abffc408b0daae75136af04bb8da87f"
+        },
+        "arm64": {
+            "url": "https://github.com/gofika/polyctl/releases/download/v0.1.0/polyctl_0.1.0_windows_arm64.zip",
+            "bin": [
+                "polyctl.exe"
+            ],
+            "hash": "98bed30a5019f98ffa939276249a0ce85b1830d81b885357828feb14d10794b5"
+        }
+    },
+    "homepage": "https://github.com/gofika/polyctl",
+    "license": "MIT",
+    "description": "Manage domains, DNS and cloud resources across platforms"
+}
