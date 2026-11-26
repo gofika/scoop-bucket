@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gofika/polyctl/releases/download/v0.4.0/polyctl_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/gofika/polyctl/releases/download/v0.5.0/polyctl_0.5.0_windows_amd64.zip",
             "bin": [
                 "polyctl.exe"
             ],
-            "hash": "cf3d33f08725026e7eeb9ce01faeb426d102d66006111e3568c094015ea5baf5"
+            "hash": "29955b436a67a4046098852752e23fdf37a2cb5f9e6f369e2e46ed85ec43abcd"
         },
         "arm64": {
-            "url": "https://github.com/gofika/polyctl/releases/download/v0.4.0/polyctl_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/gofika/polyctl/releases/download/v0.5.0/polyctl_0.5.0_windows_arm64.zip",
             "bin": [
                 "polyctl.exe"
             ],
-            "hash": "cef5ef37b5f717cbbc8031ef5bd7f82bfd6abf94176299aeff1372d325a8a336"
+            "hash": "1e17a25eeac611d6388b8f4b530e13f16c8a4624bf4b20e540b3e8e818180775"
         }
     },
     "homepage": "https://github.com/gofika/polyctl",
